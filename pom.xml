@@ -11,7 +11,7 @@
 	<groupId>net.practicehabits</groupId>
 	<artifactId>spring-jpa-h2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>spring-jpa-h2</name>
 	<description>Demo project for Spring Boot - JPA - H2</description>
 	<properties>
